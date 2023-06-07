@@ -1,6 +1,6 @@
 #Ignorar los .meta
-*.meta
+#*.meta
 
 #No subir prefab -- Ahorrar espacio
-*.prefab
-*.prefab.meta
+#*.prefab
+#*.prefab.meta
